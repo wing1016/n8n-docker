@@ -2,7 +2,7 @@
 
 A complete Docker Compose setup for running **n8n** (workflow automation platform) with PostgreSQL, Redis, and Nginx reverse proxy.
 
-## Features
+## Features 
 
 - **n8n**: Latest n8n workflow automation engine
 - **PostgreSQL**: Database backend for data persistence
